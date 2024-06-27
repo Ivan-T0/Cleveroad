@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1000px;
+  padding: 10px;
+  margin: auto;
+  box-shadow: 0 10px 15px rgba(71, 85, 119, 0.2);
+  border: 1px solid #134e4a;
+  border-radius: 0.25rem;
+}

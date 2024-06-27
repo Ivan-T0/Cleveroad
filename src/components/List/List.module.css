@@ -1,0 +1,27 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.list_item {
+  display: flex;
+  gap: 5px;
+  padding: 5px 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.text {
+  padding: 10px;
+  font-size: 20px;
+}
+.icon_row {
+  display: block;
+  width: 22px;
+  height: 24px;
+  fill: white;
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 50%;
+}
